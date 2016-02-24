@@ -1,7 +1,7 @@
 #include <stdio.h>
 void troca(int *p, int *q);
 /*
-Simples exemplos para usar ponteiros ao passar valores para uma funcao
+Exemplo para usar ponteiros ao passar valores para uma funcao
 */
 int main(void) {
 	int a = 1;
