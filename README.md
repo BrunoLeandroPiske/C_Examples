@@ -1,4 +1,4 @@
 # C_Examples
-Simple C code examples.
+Exemplos de código.
 
-Exemplos de codigo C para estudo e prática.
+Exemplos de código C para estudo e prática.
